@@ -1,0 +1,55 @@
+body{
+    background: #ffc107;
+
+}
+.container-pai{
+    text-align: center;
+}
+.container-pai img{
+    position: relative;
+    top: 50px;
+
+
+}
+.container{
+    position: relative;
+    top: 100px;
+    width: 400px;
+    height: 350px;
+    text-align: center;
+    background: #fff;
+    padding-top: 8px;
+    border-radius: 10px;
+}
+.container form{
+    border-bottom: 1px solid #C0C0C0;
+}
+.form-control{
+    margin-top: 10px;
+    height: 50px;
+}
+.btn{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.btn-success{
+    width: 150px;
+    height: 50px;
+    margin-top: 25px;
+
+}
+.container a{
+    color: #1877f2;
+    text-decoration: none;
+    cursor: pointer;
+    display: block;
+    height: 50px;
+   
+}
+a:hover{
+    text-decoration: underline;
+}
+.container-pai footer{
+    position: relative;
+    top: 200px;
+}
